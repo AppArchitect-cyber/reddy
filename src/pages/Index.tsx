@@ -213,7 +213,7 @@ const Index = () => {
         {/* Social Links */}
         <div className="flex justify-center space-x-6 mt-8 text-orange-500">
           <a
-            href="https://t.me/Reddyidsupport"
+            href="https://t.me/reddy247dotcom"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center space-x-2 hover:text-orange-400 transition"
@@ -222,7 +222,7 @@ const Index = () => {
             <span className="text-sm">@Reddyidsupport</span>
           </a>
           <a
-            href="https://www.instagram.com/reddyid247/"
+            href="https://www.instagram.com/reddyanaoriginal?igsh=dDBvdnBhamRhNXdz"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center space-x-2 hover:text-orange-400 transition"
